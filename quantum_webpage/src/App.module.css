@@ -1,0 +1,10 @@
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
